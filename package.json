@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm install --prefix beatworld-backend && npm install --prefix beatworld-frontend && npm run build --prefix beatworld-frontend",
-    "start": "npm start --prefix backend"
+    "start": "npm start --prefix beatworld-backend"
   },
   "keywords": [],
   "author": "",
