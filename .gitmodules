@@ -1,0 +1,6 @@
+[submodule "beatworld-frontend"]
+	path = beatworld-frontend
+	url = https://github.com/obsoletee/beatworld-frontend.git
+[submodule "beatworld-backend"]
+	path = beatworld-backend
+	url = https://github.com/obsoletee/beatworld-backend.git
